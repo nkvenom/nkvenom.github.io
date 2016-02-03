@@ -99,7 +99,7 @@ ggplot(aes(x='date', y='users'), data=countries_df) +\
 
 
 
-![png](output_11_1.png)
+![png](/images/output_11_1.png)
 
 
 
@@ -217,7 +217,7 @@ users_by_year['2015'].plot()
 
 
 
-![png](output_15_1.png)
+![png](/images/output_15_1.png)
 
 
 
@@ -243,7 +243,7 @@ users_usa['2015-01-01':'2015-12-01'].plot()
 
 
 
-![png](output_18_1.png)
+![png](/images/output_18_1.png)
 
 
 
@@ -264,5 +264,5 @@ df2015[['uruguay', 'colombia', 'cuba', 'chile']].plot()
 
 
 
-![png](output_20_1.png)
+![png](/images/output_20_1.png)
 
